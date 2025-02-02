@@ -1,1 +1,2 @@
-M3U playlist
+#M3U playlist
+[Плейлист](https://github.com/gruninkn/tv/edit/main/README.md)
